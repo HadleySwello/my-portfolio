@@ -17,8 +17,21 @@ body {
   padding-top: 3.5rem;
 }
 
-.card {
+.exampleImg {
+  margin: 0 auto;
   text-align: center;
+  width: 500px;
+}
+
+.projectCard {
+  border: 3px solid;
+  border-radius: 40px;
+}
+
+.card {
+  margin: 0 auto;
+  text-align: center;
+  width: 75%;
 
   p {
     text-align: justify;
